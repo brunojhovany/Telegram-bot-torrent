@@ -1,0 +1,10 @@
+certifi==2021.10.8
+cffi==1.15.0
+cryptography==35.0.0
+decorator==5.1.0
+pycparser==2.21
+python-decouple==3.3
+python-telegram-bot==12.8
+six==1.16.0
+tornado==6.1
+transmissionrpc==0.11
